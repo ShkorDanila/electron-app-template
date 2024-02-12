@@ -4,5 +4,7 @@ React-TypeScript Template for Electron
 
 
 git clone --depth 1 --branch main https://github.com/ShkorDanila/electron-app-template *your-project-name*
+
 cd *your-project-name*
+
 npm install

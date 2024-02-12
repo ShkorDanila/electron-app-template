@@ -7,4 +7,4 @@ git clone --depth 1 --branch main https://github.com/ShkorDanila/electron-app-te
 
 cd *your-project-name*
 
-npm install
+npm install in both directories

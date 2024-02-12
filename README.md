@@ -8,3 +8,7 @@ git clone --depth 1 --branch main https://github.com/ShkorDanila/electron-app-te
 cd *your-project-name*
 
 npm install in both directories
+
+|| to start react app use npm run dev
+|| to start electron app use npm run start
+|| in exact order
